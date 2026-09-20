@@ -1,24 +1,222 @@
-# 💫 About Me:
-👋 Hi, I'm Rahul!<br><br>🎓 B.Tech CSE Student<br>💻 Aspiring Software Engineer<br>🚀 Interested in Software Development, Web Development & DSA<br>🧩 Practicing problem solving and coding<br>🌐 Building projects using HTML, CSS, JavaScript, React, Node.js, Express.js & MySQL<br>📚 Currently improving my DSA and development skills<br>🤝 Open to learning, collaborating and building interesting projects<br>
+<!-- ========================================================= -->
+<!--                    HERO SECTION                           -->
+<!-- ========================================================= -->
 
+<h1 align="center">Hi 👋, I'm Rahul Gurram</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul_gurram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulgurram32@gmail.com) 
+<h3 align="center">
+B.Tech CSE Student | Aspiring Software Engineer | Software Developer | Full Stack Developer
+</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rahulgurram-2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rahulgurram-2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulgurram-2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;Aspiring+Software+Engineer;Software+Developer;Full+Stack+Developer;DSA+%7C+Web+Development+%7C+Problem+Solving" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahulgurram-2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulgurram-2006&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rahulgurram-2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 I am a **B.Tech CSE student** at **Sreyas Institute of Engineering and Technology**.
+
+💻 I am passionate about **software development, problem solving, DSA, and web technologies**.
+
+🚀 I enjoy building practical projects and continuously improving my programming and development skills.
+
+🎯 My goal is to become a skilled **Software Engineer** and work on real-world software projects.
+
+📍 Hyderabad, India
+
+---
+
+## 🎯 Career Goals
+
+- 💻 Software Engineer
+- 🌐 Full Stack Developer
+- 🚀 Build real-world software applications
+- 🧩 Improve Data Structures & Algorithms
+- 🤖 Explore Generative AI and Prompt Engineering
+- 🤝 Collaborate on interesting technical projects
+
+---
+
+## 💡 Interests
+
+- 🧩 DSA & Problem Solving
+- 🌐 Web Development
+- 💻 Software Development
+
+### 🎮 Fun Fact
+
+I enjoy **playing games 🎮 and watching movies 🎬** in my free time.
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+## 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/ChromeOS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔗 Skill Connect
+
+A centralized platform that helps students discover **hackathons, workshops, coding contests, seminars, and other technical opportunities** in one place.
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
+
+🔗 **[View Project on GitHub](https://github.com/rahulgurram-2006/Skill_Connect)**
+
+---
+
+## 👥 Code Collab
+
+A collaborative platform where students can **meet, solve coding problems together, share ideas, and discuss solutions**, helping them learn through peer collaboration.
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
+
+🔗 **[View Project on GitHub](https://github.com/rahulgurram-2006/Code_Collab)**
+
+---
+
+# 🏆 Achievements & Certifications
+
+- 📚 **Operating System Course — Get SDE Ready**
+- 🐍 **Programming with Python — Simplilearn**
+- 🏆 **Sankalp Summit 2026**
+
+---
+
+# 📚 Currently Learning
+
+- 🧩 **Data Structures & Algorithms**
+- 🌐 **Web Development**
+- 🧠 **Problem Solving**
+- 🤖 **Prompt Engineering / Generative AI**
+
+---
+
+# 🤝 Open to Collaborate On
+
+- 🚀 Open-source projects
+- 💻 Web development projects
+- 🤖 AI / Generative AI projects
+- 🧩 DSA & problem-solving projects
+- 💡 Student and startup ideas
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulgurram-2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgurram-2006&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rahulgurram-2006&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+# 🧩 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Gurram_Rahul/">
+<img src="https://img.shields.io/badge/LeetCode-Gurram__Rahul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/rahulgurram-2006">
+<img src="https://img.shields.io/badge/GitHub-rahulgurram--2006-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rahul_gurram/">
+<img src="https://img.shields.io/badge/LinkedIn-rahul__gurram-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rahulgurram32@gmail.com">
+<img src="https://img.shields.io/badge/Email-rahulgurram32%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Gurram_Rahul/">
+<img src="https://img.shields.io/badge/LeetCode-Gurram__Rahul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Developer Mindset
+
+<p align="center">
+
+> <i>"Learn. Build. Solve. Improve. Repeat. 🚀"</i>
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories!
+</p>
