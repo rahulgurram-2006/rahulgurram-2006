@@ -162,8 +162,14 @@ A collaborative platform where students can **meet, solve coding problems togeth
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulgurram-2006&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgurram-2006&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=rahulgurram-2006&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rahulgurram-2006&layout=compact&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 ---
@@ -171,7 +177,9 @@ A collaborative platform where students can **meet, solve coding problems togeth
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rahulgurram-2006&theme=tokyonight&hide_border=false" />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=rahulgurram-2006&theme=tokyonight"
+  />
 </p>
 
 ---
